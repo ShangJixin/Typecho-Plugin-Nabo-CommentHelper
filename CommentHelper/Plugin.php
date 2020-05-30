@@ -6,6 +6,7 @@
  * @author 尚寂新
  * @version 1.0
  * @dependence 17.11.15
+ * @link https://github.com/ShangJixin/Typecho-Plugin-Nabo-CommentHelper
  */
 class CommentHelper_Plugin implements Typecho_Plugin_Interface
 {
